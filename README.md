@@ -1,10 +1,10 @@
-# think-validate
+# sd-validate
 
-基于PHP5.6+ 的Validate实现
+改进 think-validate 适配sd框架 基于PHP5.6+ 的Validate实现
 
 ## 安装
 ~~~
-composer require topthink/think-validate
+composer require weijer/sd_validate
 ~~~
 
 ## 用法
